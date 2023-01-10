@@ -1,0 +1,5 @@
+Aca debe ir el archivo odoo.conf donde le tenes que especificar el addons path para que lea tus modulos
+
+
+
+BORRAR ESTE ARCHIVO ANTES DE HACER docker-dompose PORQUE ROMPE TODO

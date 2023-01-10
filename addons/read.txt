@@ -1,0 +1,7 @@
+En esta carpeta iran todos los modulos que vos estes trabajando, que luego docker los va a copiar dentro del contenedor, pero en escencia en esta carpeta
+es donde vas a desarrollar los modulos
+
+
+
+
+BORRAR ESTE ARCHIVO ANTES DE HACER docker-dompose PORQUE ROMPE TODO
